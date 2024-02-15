@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Base16TomorrowNight" GUID="{f44f826e-cde8-49c7-9e2c-62998d6112dc}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Base16TomorrowNight" GUID="{18d6a6e4-aab2-4cbb-a730-7bb828da3f2e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -482,11 +482,11 @@
         <Foreground Type="CT_RAW" Source="FFA9A9A9" />
       </Color>
       <Color Name="ReSharper Context Exit">
-        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Background Type="CT_RAW" Source="FF373B41" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Usage of element under cursor">
-        <Background Type="CT_RAW" Source="FF0E4583" />
+        <Background Type="CT_RAW" Source="FF373B41" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Background">
@@ -1938,7 +1938,7 @@
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF81A2BE" />
+        <Background Type="CT_RAW" Source="FFC5C8C6" />
         <Foreground Type="CT_RAW" Source="FF373B41" />
       </Color>
       <Color Name="Stale Code">
@@ -10289,7 +10289,7 @@
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF569CD6" />
+        <Foreground Type="CT_RAW" Source="FF81A2BE" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -10373,7 +10373,7 @@
       </Color>
       <Color Name="hinted suggestion">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFA5A5A5" />
+        <Foreground Type="CT_RAW" Source="FFC5C8C6" />
       </Color>
       <Color Name="other error">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -10389,7 +10389,7 @@
       </Color>
       <Color Name="information">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF55AAFF" />
+        <Foreground Type="CT_RAW" Source="FF81A2BE" />
       </Color>
       <Color Name="Code Snippet Field">
         <Background Type="CT_RAW" Source="FF5B5B5B" />
