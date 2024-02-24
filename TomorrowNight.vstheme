@@ -1938,8 +1938,8 @@
         <Foreground Type="CT_RAW" Source="FFADC0D3" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FFC5C8C6" />
-        <Foreground Type="CT_RAW" Source="FF373B41" />
+        <Background Type="CT_RAW" Source="FF969896" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Stale Code">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -10473,7 +10473,7 @@
       </Color>
       <Color Name="Brace Matching (Highlight)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC5C8C6" />
+        <Foreground Type="CT_RAW" Source="FF969896" />
       </Color>
       <Color Name="SQL DML Marker">
         <Background Type="CT_INVALID" Source="00000000" />
